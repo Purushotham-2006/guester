@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Runner",
+  "description": "A camera-based running game where you control the character with hand gestures. Open hand to run, fist to jump.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
